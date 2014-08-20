@@ -1,4 +1,6 @@
-import urllib, datetime, os
+import os
+import urllib
+import datetime
 
 def fetch():
     url = 'http://www.bey2ollak.com/Traffic?action=getTraffic&target=4&city=0&lang=1'

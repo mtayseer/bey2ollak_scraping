@@ -1,4 +1,5 @@
-import json, sys
+import sys
+import json
 from lxml.html import fromstring
 
 # lang: 0 => Arabic, 1 => Francozeft
